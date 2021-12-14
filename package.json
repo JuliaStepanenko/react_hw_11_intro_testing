@@ -1,0 +1,17 @@
+{
+  "name": "react_hw_11_intro_testing",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "cross-env NODE_OPTIONS=--experimental-vm-modules npx jest"
+  },
+  "author": "Julia",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "jest": "^27.4.5"
+  },
+  "dependencies": {}
+}
